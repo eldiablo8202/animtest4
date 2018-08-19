@@ -1,0 +1,6 @@
+Player update cycle
+
+1. check events
+2. apply physics
+3. redraw
+4. reset everything

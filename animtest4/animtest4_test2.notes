@@ -1,0 +1,13 @@
+animtest4_test2.py Notes
+========================
+
+Progress
+++++++++
+	
+
+ToDo
+++++
+	-Need to figure out collision system for jump animations
+
+Changes from animtest3:
+	-Removed call to Game class in Player class
